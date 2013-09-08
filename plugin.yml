@@ -1,0 +1,6 @@
+name: MultiKill
+main: me.crafter.mc.multikill.multikill
+version: 1.2
+description: >
+             Add multikill and multideath messages.
+commands:
